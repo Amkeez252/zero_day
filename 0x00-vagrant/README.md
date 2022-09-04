@@ -1,1 +1,1 @@
-This file is mandatory in projects
+ssh into your Ubuntu VM
